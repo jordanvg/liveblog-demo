@@ -41,6 +41,10 @@ Cross Origin Request Security. To get around this run Chrome with the
 Adding a new posts requires a JSON request with ```author``` and 
 ```text``` fields.
 
+## Client Screenshots
+![Interface with posts](https://raw.github.com/jordanvg/liveblog-demo/screenshots/screenshot1.png "Interface with posts")
+![A server error](https://raw.github.com/jordanvg/liveblog-demo/screenshots/screenshot2.png "A server error")
+
 ## TODO
 - Create demo that does not rely on server running
 - Add client unit tests for AngularJS
